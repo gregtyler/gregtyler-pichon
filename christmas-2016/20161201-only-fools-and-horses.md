@@ -2,7 +2,7 @@ Published: 2016-12-01T21:00:00.000Z
 Author: Greg Tyler <greg@gregtyler.co.uk>
 Standfirst: It's a proper festive Peckham knees-up down the Monte Carlo in my first post of Christmas 2016.
 
-Only Fools and Horses - Christmas Crackers
+Only Fools and Horses – Christmas Crackers
 
 _Our favourite Cockney miscreants engage in a Christmas tradition: trying to pull girls in the local nightclub. But also burning dinner and watching the Sound of Music._
 
