@@ -13,7 +13,7 @@ _Our favourite Cockney miscreants engage in a Christmas tradition: trying to pul
 
 _Only Fools and Horses_ was my first pick for a Christmas TV special because of how many Christmas specials they did. Between 1991 and 2003, the show put out nothing _but_ Christmas specials. "[Christmas Crackers][wiki]" was their first, and the most Christmassy special I could find.
 
-Christmas Crackers is a bit of a weird episode of television. The first half of it follows Del Boy and Rodney's Christmas dinner, thanklessly prepared by Grandad. After that (expectedly) goes rather badly, and Grandad decides to head off to the Old Folk's Christmas Party, the brothers decide to head out themselves.
+"Christmas Crackers" is a bit of a weird episode of television. The first half of it follows Del Boy and Rodney's Christmas dinner, thanklessly prepared by Grandad. After that (expectedly) goes rather badly, and Grandad decides to head off to the Old Folk's Christmas Party, the brothers decide to head out themselves.
 
 The first half is full of class Christmassy tropes. They have a big Christmas spread with all the trimmings (though not all in the right place). The flat is decorated with tree and tinsel. Everyone's wearing those paper crowns. They even catch The Sound of Music on the television.
 
@@ -43,7 +43,7 @@ There is not a single Christmas song, but it does have some great 80s music.
 ## Overall
 ★ ★ ☆ ☆ ☆
 
-Let's be honest, Christmas Crackers is definitely not the best _Only Fools and Horses_ episode. It's probably not even the best Christmas special (looking at you, _[Hereos and Villains][handv]_). But it's entertaining, pleasant, and really captures the vibe of Christmas in Britain before the turn of the millenium.
+Let's be honest, "Christmas Crackers" is definitely not the best _Only Fools and Horses_ episode. It's probably not even the best Christmas special (looking at you, _[Hereos and Villains][handv]_). But it's entertaining, pleasant, and really captures the vibe of Christmas in Britain before the turn of the millenium.
 
 I think this is a solid start to my Christmas TV specials this year. It brings a bit of festive mirth, some deep-set nostalgia and a couple of reminders of what makes this time of year so important to people around the world. I expect much more of that on all fronts in the coming weeks.
 
