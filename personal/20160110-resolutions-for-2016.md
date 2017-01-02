@@ -24,6 +24,19 @@ Incidentally, 25% of traffic to this site has been to [1 article][3], because I'
 1. [Don't give up on your resolutions already][4]
 2. [Election by Error — Democratic Caucus][5]
 3. [Election by Error — Republican Caucus][6] (a solid 5000 words)
+4. ["FATAL ERROR: Allocation failed" error with WebdriverIO and Cucumber](/webdev/fatal-error-allocation-failed-error-with-webdriverio-and-cucumber)
+5. [Node.js ENOENT error explanations](/webdev/node-enoent)
+6. [How to pick a software library](/webdev/how-to-pick-a-software-library)
+7. [Render Conference 2016 sessions](http://www.appsdev.is.ed.ac.uk/blog/?p=750)
+8. [Linting for everybody](http://www.appsdev.is.ed.ac.uk/blog/?p=832)
+9. [Positive side effects of automated testing](http://www.appsdev.is.ed.ac.uk/blog/?p=960)
+10. [Generating barcode PDFs with bwip-js and jsPDF](http://assessment.studentsystems.is.ed.ac.uk/2016/09/generating-barcode-pdfs-with-bwip-js-and-jspdf/)
+11. [Consistency in Assessment Tools](http://assessment.studentsystems.is.ed.ac.uk/2016/10/consistency-in-assessment-tools/)
+12. [What is a “published mark”?](http://assessment.studentsystems.is.ed.ac.uk/2016/10/what-is-a-published-mark/)
+13. [The more things seem to change…](http://assessment.studentsystems.is.ed.ac.uk/2016/10/the-more-things-seem-to-change/)
+14. [Only Fools and Horses – Christmas Crackers](/christmas-2016/only-fools-and-horses)
+15. [Pointless Celebrities – 2013 Christmas Special](/christmas-2016/pointless-celebrities)
+16. [Castle – Secret Santa](/christmas-2016/castle)
 
 ## 2\. Watch 10 silent films
 
@@ -31,6 +44,7 @@ Incidentally, 25% of traffic to this site has been to [1 article][3], because I'
 Surprisingly, I came up with this in Nicaragua whilst in a bar playing Harold Lloyd's [For Heaven's Sake][7]. It's not Lloyd's best but it's still an excellent film with that enduring charm that only really exists in silent movies. I used to love silent films, but haven't watched many recently. In 2016 I want to watch a bunch to remind myself how much I enjoy them. This is also a great opportunity to share the films with other people and introduce them to the silent world.   
 
 1. [The General (1926)][8]
+2. [The Artist (2011)](http://www.imdb.com/title/tt1655442/)
 
 ## 3\. Record at least one podcast episode
 
