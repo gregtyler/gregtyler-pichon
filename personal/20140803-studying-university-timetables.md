@@ -66,7 +66,7 @@ Perhaps the least surprising thing I noticed was that tutorials happen "later"; 
 
 Did you find any interesting patterns? Let me know in the comments below!
 
-[1]: http://www.appsdev.is.ed.ac.uk/blog/?p=163
+[1]: https://blog.swdev.ed.ac.uk/2014/07/22/a-new-course-timetable-browser/
 [2]: https://browser.ted.is.ed.ac.uk/
 [3]: http://play.gregtyler.co.uk/timetable/
 [4]: http://play.gregtyler.co.uk/timetable/#
