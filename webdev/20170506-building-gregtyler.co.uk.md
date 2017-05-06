@@ -1,4 +1,4 @@
-Published: 2017-05-06T03:00:00.000Z
+Published: 2017-05-06T12:30:00.000Z
 Author: Greg Tyler <greg@gregtyler.co.uk>
 Standfirst: My blog is a (fairly) recent creation which involved some new tools and techniques, as well as a significant change to the way that I write.
 
