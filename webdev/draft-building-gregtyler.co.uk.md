@@ -4,17 +4,18 @@ Standfirst: Looking at the various ways of interacting with web applications and
 
 Building gregtyler.co.uk
 
-# New things
- - Node
- - nginx
+# Building a blog
  - DigitalOcean
-
-# File structure
- - Why use markdown
- - Why use GitHub
- - Publishing procedure
-
-# Design and development
- - Keeping things simple
- - InuitCSS
+ - Node
  - Performance
+
+# Designing a blog
+ - InuitCSS
+ - Match old design
+ - Simple
+ - Performance
+
+# Blogging with Git
+ - markdown
+ - GitHub
+ - Regret of current push set-up
