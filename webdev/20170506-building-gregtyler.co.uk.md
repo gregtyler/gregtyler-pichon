@@ -1,4 +1,4 @@
-Published: 2017-05-06T13:00:00.000Z
+Published: 2017-05-06T03:00:00.000Z
 Author: Greg Tyler <greg@gregtyler.co.uk>
 Standfirst: My blog is a (fairly) recent creation which involved some new tools and techniques, as well as a significant change to the way that I write.
 
@@ -11,7 +11,7 @@ I wanted to build something that was simple, lean, nicely designed and usable on
 In this post, I want to go through some of the decisions I made in redesigning [gregtyler.co.uk](https://gregtyler.co.uk/) and the tools I used to do so.
 
 ## Building a blog
-Let's start with the technical bits. This website is written bespoke in Node, without even a application framework like Express (the notable modules I use are [marked](https://www.npmjs.com/package/marked) for Markdown parsing, [highlight.js](https://highlightjs.org/) for code display, and [nunjucks](https://mozilla.github.io/nunjucks/) for templating). Not using an application framework might seem like a silly idea and, in general, it is. But this project was as much about learning how to build a Node application as it was about having a new blog, so I used the opportunity to learn properly about how Node handles HTTP requests and responses by handling them all myself.
+Let's start with the technical bits. This website is written bespoke in Node, without even a application framework like Express (the notable modules I use are [marked](https://www.npmjs.com/package/marked) for Markdown parsing, [highlight.js](https://highlightjs.org/) for code display, and [nunjucks](https://mozilla.github.io/nunjucks/) for templating). Not using an application framework might seem like a silly idea and, in general, it probably is. But this project was as much about learning how to build a Node application as it was about having a new blog, so I used the opportunity to learn properly about how Node handles HTTP requests and responses by handling them all myself.
 
 In development I focused on a couple of major goals. One was to ensure the site is performant, which not having an application framework helps with because I can see everything happening end-to-end between a request and response. Another was to build an application that would be robust for the future. I've got no plans to roll out the application (which I've called "Palomar") to any other websites, but designed it as if I did intend to. I also designed it to be extensible in the future so that adding new features won't require rewriting the whole application.
 
@@ -19,7 +19,7 @@ The application is hosted on [DigitalOcean](https://www.digitalocean.com/), whic
 
 On the server, I use [nginx](https://www.nginx.com/) as a server and, thanks to [Let's Encrypt](https://letsencrypt.org/), I'm using HTTPS everywhere.
 
-You might wonder what database I'm using, and be surprised to find that I'm not. See "Blogging with Git" below to find out more.
+You might wonder what database I'm using, and be surprised to find that I'm not. See [Blogging with Git](#blogging-with-git) below to find out more.
 
 # Designing a blog
 Anyone who visited my old blog will be familiar with the new design. The colour scheme, fonts and general layout are all very familiar, and I'm continuing to use "card" structures on the home page.
@@ -40,3 +40,9 @@ The benefits of having Git support writing should be obvious, but the implementa
 As explained in the [article from Nicolás Bevacqua](https://ponyfoo.com/articles/two-way-synchronization-for-a-web-app-and-git), a key benefit of this is that readers can identify mistakes or improvements and fix them themselves in GitHub. It also means that, when not at home, I can write drafts and articles through GitHub's interface rather than on my computer.
 
 One regret I have about the current set-up that I would like to change is that it relies on a push to the application server. In the future, I'd like the server to automatically take any new updates directly from GitHub without needing a push. This would enable to handle my entire editing and publishing process through GitHub rather than needing my PC to actually put the new posts on the server.
+
+----
+
+There's clearly more work to be done on [gregtyler.co.uk](https://gregtyler.co.uk/), but I'm extremely happy with the results so far.
+
+<small>🎶🎧 Writing music for this post: [The Barber of Seville](https://play.google.com/music/m/B3c5mbp3mdo6xbzloxs7cwehdh4?t=The_Barber_of_Seville_-_London_Symphony_Orchestra__James_Levine)</small>
