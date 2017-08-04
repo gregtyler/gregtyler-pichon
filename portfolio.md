@@ -2,9 +2,9 @@
 
 Portfolio
 
-These are websites I've worked on, some on my own, some with others. More recently I've been working for the University of Edinburgh, mainly on sites only accessible to university staff and students. This means I can't link directly to some of my more recent work.
+These are websites I've worked on, some on my own, some with others. More recently I've been working for the University of Edinburgh, mainly on sites only accessible to university staff and students, so I can't link to that work.
 
-There are also some smaller projects you can access on my [play.gregtyler][1] site including [gHarmony][2] (a dating site spoof) and the page for [the Maths Society ball][3].
+You can see much of my mockups and in-progress work on [CodePen][6], and some experimental work on my [play.gregtyler][1] site.
 
 ## Path
 ![Path](/path-screenshot.png ":left")
@@ -46,8 +46,9 @@ A personal project, I thought that "Talk like a Pirate Day" was a bit too immatu
 
 Working under the [Croft Media][4] banner, I helped make a site for Deeping St James' Exotic Pet Refuge to promote their online presence, and tell people more about the work they do.
 
-[1]: http://play.gregtyler.co.uk/
-[2]: http://gharmony.gregtyler.co.uk/
-[3]: http://play.gregtyler.co.uk/ball/
+[1]: https://play.gregtyler.co.uk/
+[2]: https://gharmony.gregtyler.co.uk/
+[3]: https://play.gregtyler.co.uk/ball/
 [4]: /projects/external-path-access
 [5]: http://croftmedia.co.uk/
+[6]: https://codepen.io/gregtyler/
