@@ -43,7 +43,7 @@ module.exports = {
 </script>
 ```
 
-As well as your Vue components, you'll also need to have an **entry file**. This is a vanilla JavaScript file which requires and renders whatever your main root component is. This file also needs to require the `vue` NPM package so that all of Vue's functionality is included.
+As well as your Vue components, you'll also need to have an **entry file**. This is a vanilla JavaScript file which requires and renders whatever your main root component is. This file also needs to require the `vue` NPM package so that all of Vue's functionality is included in the bundle.
 
 ```javascript
 const Vue = require('vue');
@@ -67,15 +67,15 @@ These can be installed through NPM with the command:
 ```npm install --save-dev grunt grunt-browserify vueify vue```
 
 ## The Grunt file
-The Grunt file is very simple, just pulling together the various things we've installed. `src/index.js` is the entry file that we described above. Notice that we don't need to specify _any_ component files: since they're required by either the entry file or a component that it requires, browserify will automatically include them in the bundle.
+The Grunt file is very simple, just pulling together the various things we've installed. `src/index.js` is the entry file that we described above. Notice that we don't need to specify _any_ component files: since they're required by either the entry file or a component that it requires, Browserify will automatically include them in the bundle.
 
 ```javascript
 module.exports = function(grunt) {
   grunt.initConfig({
     browserify: {
       bundle: {
-        src: 'src/index.js',
-        dest: 'build/bundle.min.js'
+        src: 'index.js',
+        dest: 'bundle.min.js'
       },
       options: {
         browserifyOptions: {
@@ -94,3 +94,9 @@ module.exports = function(grunt) {
     grunt.task.run('browserify');
   });
 };
+```
+
+With the Grunt file written, we just need to run `grunt build` in the command line (in the same directory as the file) and Grunt will use Browserify to generate a single file called `bundle.min.js` which you can put in your web application to render the Vue components you've built.
+
+## Next steps
+If you want to do more with Grunt, consider using [ESLint](https://eslint.org/) to check all of your code follows linting guidelines. And use [grunt-ssh](https://www.npmjs.com/package/grunt-ssh) to deploy your bundle onto your webserver.
