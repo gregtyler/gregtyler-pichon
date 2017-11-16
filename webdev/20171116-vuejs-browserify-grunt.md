@@ -1,4 +1,4 @@
-Published: xxx
+Published: 2017-11-16T13:13:00.000Z
 Author: Greg Tyler <greg@gregtyler.co.uk>
 Standfirst: A quick tutorial of how to build Vue's Single File Components with Grunt and Browserify
 
